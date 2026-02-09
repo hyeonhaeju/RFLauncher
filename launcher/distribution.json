@@ -13,15 +13,15 @@
       "description": "놀러와요:람롬숲 스트리머 서버",
       "icon": "https://raw.github.com/hyeonhaeju/RFLauncher/main/launcher/Rm_icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "221.157.168.139",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.18.4",

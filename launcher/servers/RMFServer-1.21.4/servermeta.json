@@ -5,14 +5,14 @@
     "name": "놀러와요:람롬숲",
     "description": "놀러와요:람롬숲 스트리머 서버",
     "icon": "https://raw.github.com/hyeonhaeju/RFLauncher/main/launcher/Rm_icon.png",
-    "address": "localhost:25565",
+    "address": "221.157.168.139",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": true,
-    "autoconnect": true
+    "mainServer": false,
+    "autoconnect": false
   },
   "fabric": {
     "version": "0.18.4"
