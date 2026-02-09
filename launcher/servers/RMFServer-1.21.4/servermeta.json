@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/User/Desktop/RM-setup/NebulaRoot/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "놀러와요:람롬숲",
+    "description": "놀러와요:람롬숲 스트리머 서버",
+    "icon": "https://raw.github.com/hyeonhaeju/RFLauncher/main/launcher/Rm_icon.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.18.4"
+  },
+  "untrackedFiles": []
+}
