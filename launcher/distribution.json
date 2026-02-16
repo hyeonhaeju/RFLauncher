@@ -466,6 +466,16 @@
           }
         },
         {
+          "id": "com.neocinema:neocinema:1.0.0@jar",
+          "name": "SolLaCinema",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 393903,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/SolLaCinema-1.0.0-client.jar",
+            "MD5": "5a5a88e98e5e939c0f20ef1c2c337b50"
+          }
+        },
+        {
           "id": "com.hyperlunatic:hyperplayer:1.0-fabric@jar",
           "name": "SollaPlayer_Fabric_1.21.4",
           "type": "FabricMod",
