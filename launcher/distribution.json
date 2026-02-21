@@ -406,6 +406,26 @@
           }
         },
         {
+          "id": "su.plo.voice.broadcast.server:pv-addon-broadcast:1.1.0@jar",
+          "name": "Pv-addon-broadcast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 58461,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/pv-addon-broadcast-1.1.0.jar",
+            "MD5": "31aa133f084d9521456b522177a1aaf8"
+          }
+        },
+        {
+          "id": "su.plo.voice.spectator:pv-addon-spectator:1.1.0@jar",
+          "name": "Pv-addon-spectator",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 13188,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/pv-addon-spectator-1.1.0.jar",
+            "MD5": "71a583d4c9d13ba48afdefcb1493ca24"
+          }
+        },
+        {
           "id": "generated.fabricmod:reeses-sodium-options:1.8.3+mc1.21.4@jar",
           "name": "Reese's Sodium Options",
           "type": "FabricMod",
@@ -470,9 +490,9 @@
           "name": "SolLaCinema",
           "type": "FabricMod",
           "artifact": {
-            "size": 398083,
+            "size": 398939,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/SolLaCinema-1.0.0-client.jar",
-            "MD5": "b8d9dac15904374660c132bdf0bca062"
+            "MD5": "0835e8b4908be3840a38077a685fc9da"
           }
         },
         {
@@ -483,6 +503,16 @@
             "size": 39435,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/sollaplayer_fabric_1-21-4-1.0-fabric.jar",
             "MD5": "67ad6047c5b17383cf32ac2e5cf05e34"
+          }
+        },
+        {
+          "id": "me.zipestudio.talkingheads.entrypoint:talkingheads:1.1.0+1.21.4+fabric@jar",
+          "name": "Talking Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 287489,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/TalkingHeads-1.1.0+1.21.4+fabric.jar",
+            "MD5": "f76ea73c24d486d9e961bf3fbb15e503"
           }
         },
         {
