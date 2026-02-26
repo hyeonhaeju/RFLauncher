@@ -12,8 +12,8 @@
       "name": "놀러와요:람롬숲",
       "description": "놀러와요:람롬숲 스트리머 서버",
       "icon": "https://raw.github.com/hyeonhaeju/RFLauncher/main/launcher/Rm_icon.png",
-      "version": "1.0.0",
-      "address": "221.157.168.139",
+      "version": "1.1.0",
+      "address": "61.38.252.236",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -560,9 +560,9 @@
           "name": "keybindings.txt",
           "type": "File",
           "artifact": {
-            "size": 1910,
+            "size": 2074,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/config/defaultoptions/keybindings.txt",
-            "MD5": "4c3605566767c1eb9f608b9401c4cbac",
+            "MD5": "fe34cf422df4718924c7443447ecfb6c",
             "path": "config/defaultoptions/keybindings.txt"
           }
         },
@@ -571,9 +571,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2825,
+            "size": 2810,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/config/defaultoptions/options.txt",
-            "MD5": "1b1ab55f43ac11711845291300f75eb3",
+            "MD5": "3ec0ba8332923189094615dc942e1a26",
             "path": "config/defaultoptions/options.txt"
           }
         },
@@ -582,9 +582,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 101,
+            "size": 81,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/config/defaultoptions/servers.dat",
-            "MD5": "4c90f2048c5c017c6df10b77f48c59dc",
+            "MD5": "4bc1b5ca14aa080dbbeb92530af72839",
             "path": "config/defaultoptions/servers.dat"
           }
         },
@@ -670,9 +670,9 @@
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 31889,
+            "size": 31886,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "eb51576339cee2e0c86e1eabe99b23fb",
+            "MD5": "7fb796f994126c2fd40e1ad607017009",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -716,7 +716,7 @@
           "artifact": {
             "size": 1969,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/config/fancymenu/options.txt",
-            "MD5": "216dd5f2d1c8d42ceccce675d4c51fab",
+            "MD5": "33ee7c2d28e5e70ba4b9ba6b1629d708",
             "path": "config/fancymenu/options.txt"
           }
         },
@@ -762,17 +762,6 @@
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/config/HyperPlayer/hud/Shalom_BGM.png",
             "MD5": "88103374895093451bdebaec130a4da6",
             "path": "config/HyperPlayer/hud/Shalom_BGM.png"
-          }
-        },
-        {
-          "id": "home.mp4",
-          "name": "home.mp4",
-          "type": "File",
-          "artifact": {
-            "size": 9784042,
-            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/config/HyperPlayer/videos/test/home.mp4",
-            "MD5": "edb0f387aed43b7692dcb54df2aea002",
-            "path": "config/HyperPlayer/videos/test/home.mp4"
           }
         },
         {
