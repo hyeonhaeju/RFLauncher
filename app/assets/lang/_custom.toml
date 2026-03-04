@@ -1,0 +1,24 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "놀러와요:람롬숲 서버"
+
+[ejs.landing]
+mediaChzzkURL = "https://chzzk.naver.com/48bd0355dc801ff430b3e6958251588a"
+mediaChzzk2URL = "https://chzzk.naver.com/3d070e1621dd510c5def4e81704f60c1"
+screenshotsTooltip = "스크린샷"
+logTooltip = "로그"
+
+[ejs.settings]
+sourceGithubLink = ""
+supportLink = ""
+
+[ejs.welcome]
+welcomeHeader = "놀러와요:람롬숲"
+welcomeDescription = "람롬숲 서버에 오신 것을 환영합니다!<br>지금 바로 시작해 볼까요?"
+welcomeDescCTA = "아래 [계속] 버튼을 눌러 시작하세요."
+
+[discord]
+botTokenEncoded = "TVRRM01EVXlOVE0yTkRFd01UazNOakkzTncuR0xyNWZYLmVXVkphM09ES18tQVRRal9mc1VwQjd6bGpnU0cwaUl2U1RfZ18w"
+channelId = "1474060635070267584"
+guildId = "1473994840114200697"

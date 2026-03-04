@@ -1,0 +1,204 @@
+<div id="landingContainer" style="display: none;">
+    <div id="upper">
+        <div id="left">
+            <div id="image_seal_container">
+                <img id="image_seal" src="assets/images/icon_2.png"/>
+                <div id="updateAvailableTooltip"><%- lang('landing.updateAvailableTooltip') %></div>
+            </div>
+        </div>
+        <div id="content">
+        </div>
+        <div id="right">
+            <div id="rightContainer">
+                <div id="user_content">
+                    <span id="user_text"><%- lang('landing.usernamePlaceholder') %></span>
+                    <div id="avatarContainer">
+                        <button id="avatarOverlay"><%- lang('landing.usernameEditButton') %></button>
+                    </div>
+                </div>
+                <div id="mediaContent">
+                    <div id="internalMedia">
+                        <div class="mediaContainer" id="settingsMediaContainer">
+                            <button class="mediaButton" id="settingsMediaButton">
+                                <svg id="settingsSVG" class="mediaSVG" viewBox="0 0 141.36 137.43">
+                                    <path d="M70.70475616319865,83.36934004916053 a15.320781354859122,15.320781354859122 0 1 1 14.454501310561755,-15.296030496450625 A14.850515045097694,14.850515045097694 0 0 1 70.70475616319865,83.36934004916053 M123.25082856443602,55.425620905968366 h-12.375429204248078 A45.54157947163293,45.54157947163293 0 0 0 107.21227231573047,46.243052436416285 l8.613298726156664,-9.108315894326587 a9.727087354538993,9.727087354538993 0 0 0 0,-13.167456673319956 l-3.465120177189462,-3.6631270444574313 a8.489544434114185,8.489544434114185 0 0 0 -12.375429204248078,0 l-8.613298726156664,9.108315894326587 A40.442902639482725,40.442902639482725 0 0 0 81.99114759747292,25.427580514871032 V12.532383284044531 a9.108315894326587,9.108315894326587 0 0 0 -8.811305593424633,-9.306322761594556 h-4.950171681699231 a9.108315894326587,9.108315894326587 0 0 0 -8.811305593424633,9.306322761594556 v12.895197230826497 a40.17064319698927,40.17064319698927 0 0 0 -9.331073620003052,4.0591407789933704 l-8.613298726156664,-9.108315894326587 a8.489544434114185,8.489544434114185 0 0 0 -12.375429204248078,0 L25.58394128451018,23.967279868769744 a9.727087354538993,9.727087354538993 0 0 0 0,13.167456673319956 L34.19724001066683,46.243052436416285 a45.07131316187151,45.07131316187151 0 0 0 -3.6631270444574313,9.083565035918088 h-12.375429204248078 a9.083565035918088,9.083565035918088 0 0 0 -8.811305593424633,9.306322761594556 v5.197680265784193 a9.108315894326587,9.108315894326587 0 0 0 8.811305593424633,9.306322761594556 h11.979415469712139 a45.69008462208391,45.69008462208391 0 0 0 4.0591407789933704,10.642869115653347 l-8.613298726156664,9.108315894326587 a9.727087354538993,9.727087354538993 0 0 0 0,13.167456673319956 l3.465120177189462,3.6631270444574313 a8.489544434114185,8.489544434114185 0 0 0 12.375429204248078,0 l8.613298726156664,-9.108315894326587 a40.49240435629971,40.49240435629971 0 0 0 9.331073620003052,4.0591407789933704 v12.895197230826497 a9.083565035918088,9.083565035918088 0 0 0 8.811305593424633,9.306322761594556 h4.950171681699231 A9.083565035918088,9.083565035918088 0 0 0 81.99114759747292,123.68848839660077 V110.79329116577425 a40.78941465720167,40.78941465720167 0 0 0 9.331073620003052,-4.0591407789933704 l8.613298726156664,9.108315894326587 a8.489544434114185,8.489544434114185 0 0 0 12.375429204248078,0 l3.465120177189462,-3.6631270444574313 a9.727087354538993,9.727087354538993 0 0 0 0,-13.167456673319956 l-8.613298726156664,-9.108315894326587 a45.665333763675406,45.665333763675406 0 0 0 4.034389920584874,-10.642869115653347 h12.004166328120636 a9.108315894326587,9.108315894326587 0 0 0 8.811305593424633,-9.306322761594556 v-5.197680265784193 a9.083565035918088,9.083565035918088 0 0 0 -8.811305593424633,-9.306322761594556 " id="svg_3" class=""/>
+                                </svg>
+                                <div id="settingsTooltip"><%- lang('landing.settingsTooltip') %></div>
+                            </button>
+                        </div>
+                    </div>
+                    <div id="internalMedia">
+                        <div class="mediaContainer" id="screenshotsMediaContainer">
+                            <button class="mediaButton" id="screenshotsMediaButton">
+                                <svg id="screenshotsSVG" class="mediaSVG" viewBox="0 0 600 533">
+                                    <path d="M160 32c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64H512c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H160zM396 138.7l96 144c4.9 7.4 5.4 16.8 1.2 24.6S480.9 320 472 320H328 280 200c-9.2 0-17.6-5.3-21.6-13.6s-2.9-18.2 2.9-25.4l64-80c4.6-5.7 11.4-9 18.7-9s14.2 3.3 18.7 9l17.3 21.6 56-84C360.5 132 368 128 376 128s15.5 4 20 10.7zM192 128a32 32 0 1 1 64 0 32 32 0 1 1 -64 0zM48 120c0-13.3-10.7-24-24-24S0 106.7 0 120V344c0 75.1 60.9 136 136 136H456c13.3 0 24-10.7 24-24s-10.7-24-24-24H136c-48.6 0-88-39.4-88-88V120z" id="svg_3" class=""/>
+                                </svg>
+                                <div id="screenshotsTooltip"><%- lang('landing.screenshotsTooltip') %></div>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="mediaDivider"></div>
+                    <div id="externalMedia">
+                        <div class="mediaContainer">
+                            <a href="<%- lang('landing.mediaChzzkURL') %>" class="mediaURL" id="chzzkURL">
+                                <svg id="chzzkSVG" class="mediaSVG" viewBox="15 15 60 60">
+                                    <g>
+                                        <path d="M 32.179 28.278 L 24.858 38.500 33.757 39.000 L 42.655 39.500 31.377 55.000 L 20.098 70.500 44.049 70.768 L 68.000 71.036 68.000 64.518 L 68.000 58.000 58.000 58.000 C 52.500 58.000 48.019 57.663 48.042 57.250 C 48.065 56.838 52.984 49.750 58.973 41.500 L 69.863 26.500 60.842 26.211 L 51.822 25.923 54.411 22.528 C 55.835 20.661 57.000 18.878 57.000 18.567 C 57.000 18.255 53.063 18.012 48.250 18.028 L 39.500 18.055 32.179 28.278 "/>
+                                    </g>
+                                </svg>
+                                <div id="chzzkTooltip" class="mediaTooltip"><%- lang('landing.chzzkTooltip') %></div>
+                            </a>
+                        </div>
+                        <div class="mediaContainer">
+                            <a href="<%- lang('landing.mediaChzzk2URL') %>" class="mediaURL" id="chzzk2URL">
+                                <svg id="chzzk2SVG" class="mediaSVG" viewBox="15 15 60 60">
+                                    <g>
+                                        <path d="M 32.179 28.278 L 24.858 38.500 33.757 39.000 L 42.655 39.500 31.377 55.000 L 20.098 70.500 44.049 70.768 L 68.000 71.036 68.000 64.518 L 68.000 58.000 58.000 58.000 C 52.500 58.000 48.019 57.663 48.042 57.250 C 48.065 56.838 52.984 49.750 58.973 41.500 L 69.863 26.500 60.842 26.211 L 51.822 25.923 54.411 22.528 C 55.835 20.661 57.000 18.878 57.000 18.567 C 57.000 18.255 53.063 18.012 48.250 18.028 L 39.500 18.055 32.179 28.278 "/>
+                                    </g>
+                                </svg>
+                                <div id="chzzk2Tooltip" class="mediaTooltip"><%- lang('landing.chzzk2Tooltip') %></div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="mediaDivider"></div>
+                    <div id="externalMedia">
+                        <div class="mediaContainer" id="logMediaContainer">
+                            <button class="mediaButton" id="logMediaButton">
+                                <svg id="logSVG" class="mediaSVG" viewBox="0 0 384 512">
+                                    <path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"/>
+                                </svg>
+                                <div id="logTooltip"><%- lang('landing.logTooltip') %></div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="lower">
+        <div id="left">
+            <div class="bot_wrapper">
+                <div id="content">
+                    <div id="server_status_wrapper">
+                        <span class="bot_label" id="landingPlayerLabel"><%- lang('landing.serverStatus') %></span>
+                        <span id="player_count"><%- lang('landing.serverStatusPlaceholder') %></span>
+                    </div>
+                    <div class="bot_divider"></div>
+                    <div id="mojangStatusWrapper">
+                        <span class="bot_label"><%- lang('landing.mojangStatus') %></span>
+                        <span id="mojang_status_icon">&#8226;</span>
+                        <div id="mojangStatusTooltip">
+                            <div id="mojangStatusTooltipTitle"><%- lang('landing.mojangStatusTooltipTitle') %></div>
+                            <div id="mojangStatusEssentialContainer">
+                                <!-- Essential Mojang services are populated here. -->
+                            </div>
+                            <div id="mojangStatusNEContainer">
+                                <div class="mojangStatusNEBar"></div>
+                                <div id="mojangStatusNETitle"><%- lang('landing.mojangStatusNETitle') %></div>
+                                <div class="mojangStatusNEBar"></div>
+                            </div>
+                            <div id="mojangStatusNonEssentialContainer">
+                                <!-- Non Essential Mojang services are populated here. -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="center">
+            <div class="bot_wrapper">
+                <div id="content">
+                    <button id="newsButton">
+                        <!--<img src="assets/images/icons/arrow.svg" id="newsButtonSVG"/>-->
+                        <div id="newsButtonAlert" style="display: none;"></div>
+                        <svg id="newsButtonSVG" viewBox="0 0 24.87 13.97">
+                            <defs>
+                                <style>.arrowLine{fill:none;stroke:#FFF;stroke-width:2px;}</style>
+                            </defs>
+                            <polyline class="arrowLine" points="0.71 13.26 12.56 1.41 24.16 13.02"/>
+                        </svg>
+                        &#10;<span id="newsButtonText"><%- lang('landing.newsButton') %></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="right">
+            <div class="bot_wrapper">
+                <div id="launch_content">
+                    <button id="launch_button"><%- lang('landing.launchButton') %></button>
+                    <div class="bot_divider"></div>
+                    <button id="server_selection_button" class="bot_label"><%- lang('landing.launchButtonPlaceholder') %></button>
+                </div>
+                <div id="launch_details">
+                    <div id="launch_details_left">
+                        <span id="launch_progress_label">0%</span>
+                        <div class="bot_divider"></div>
+                    </div>
+                    <div id="launch_details_right">
+                        <progress id="launch_progress" value="22" max="100"></progress>
+                        <span id="launch_details_text" class="bot_label"><%- lang('landing.launchDetails') %></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="newsContainer">
+        <div id="newsContent" article="-1" style="display: none;">
+            <div id="newsStatusContainer">
+                <div id="newsStatusContent">
+                    <div id="newsTitleContainer">
+                        <span id="newsArticleTitle">Lorem Ipsum</span>
+                    </div>
+                    <div id="newsMetaContainer">
+                        <div id="newsArticleDateWrapper">
+                            <span id="newsArticleDate">Mar 15, 44 BC, 9:14 AM</span>
+                        </div>
+                        <div id="newsArticleAuthorWrapper">
+                            <span id="newsArticleAuthor">by Cicero</span>
+                        </div>
+                        <a href="#" id="newsArticleComments">0 Comments</a>
+                    </div>
+                </div>
+                <div id="newsNavigationContainer">
+                    <button id="newsNavigateLeft">
+                        <svg id="newsNavigationLeftSVG" viewBox="0 0 24.87 13.97">
+                            <defs>
+                                <style>.arrowLine{fill:none;stroke:#FFF;stroke-width:2px;transition: 0.25s ease;}</style>
+                            </defs>
+                            <polyline class="arrowLine" points="0.71 13.26 12.56 1.41 24.16 13.02"/>
+                        </svg>
+                    </button>
+                    <span id="newsNavigationStatus"><%- lang('landing.newsNavigationStatus', { currentPage: 1, totalPages: 1 }) %></span>
+                    <button id="newsNavigateRight">
+                        <svg id="newsNavigationRightSVG" viewBox="0 0 24.87 13.97">
+                            <defs>
+                                <style>.arrowLine{fill:none;stroke:#FFF;stroke-width:2px;transition: 0.25s ease;}</style>
+                            </defs>
+                            <polyline class="arrowLine" points="0.71 13.26 12.56 1.41 24.16 13.02"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div id="newsArticleContainer">
+                <div id="newsArticleContent">
+                    <div id="newsArticleContentScrollable">
+                        <!-- Article Content -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="newsErrorContainer">
+            <div id="newsErrorLoading">
+                <span id="nELoadSpan" class="newsErrorContent"><%- lang('landing.newsErrorLoadSpan') %></span>
+            </div>
+            <div id="newsErrorFailed" style="display: none;">
+                <span id="nEFailedSpan" class="newsErrorContent"><%- lang('landing.newsErrorFailedSpan') %></span>
+                <button id="newsErrorRetry"><%- lang('landing.newsErrorRetryButton') %></button>
+            </div>
+            <div id="newsErrorNone" style="display: none;">
+                <span id="nENoneSpan" class="newsErrorContent"><%- lang('landing.newsErrorNoneSpan') %></span>
+            </div>
+        </div>
+    </div>
+    <script src="./assets/js/scripts/landing.js"></script>
+</div>
