@@ -436,6 +436,16 @@
           }
         },
         {
+          "id": "net.teujaem.nrDonation:rmf-donation:1.4.1-fabric+mc1.21.4@jar",
+          "name": "RMF-Donation",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8540169,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/RMF-Donation-1.4.1-fabric+mc1.21.4.jar",
+            "MD5": "d83ed152e62070c53bc188a45305dd0f"
+          }
+        },
+        {
           "id": "dev.tr7zw.skinlayers:skinlayers3d:1.10.1@jar",
           "name": "3d-Skin-Layers",
           "type": "FabricMod",
@@ -765,6 +775,17 @@
           }
         },
         {
+          "id": "RMFDonationConfig.yml",
+          "name": "RMFDonationConfig.yml",
+          "type": "File",
+          "artifact": {
+            "size": 209,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/config/RMFDonationConfig.yml",
+            "MD5": "258ff10c41e33d0667fb5abf81a805b2",
+            "path": "config/RMFDonationConfig.yml"
+          }
+        },
+        {
           "id": "silly-moves_0.3---1.21.2---1.21.8.zip",
           "name": "silly-moves_0.3---1.21.2---1.21.8.zip",
           "type": "File",
@@ -784,17 +805,6 @@
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.4%ED%95%9C%EA%B8%80.zip",
             "MD5": "267ae2ba18931308c5966d91dd171302",
             "path": "shaderpacks/ComplementaryUnbound_r5.4한글.zip"
-          }
-        },
-        {
-          "id": "ComplementaryUnbound_r5.4한글.zip.txt",
-          "name": "ComplementaryUnbound_r5.4한글.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 1648,
-            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.4%ED%95%9C%EA%B8%80.zip.txt",
-            "MD5": "40b11c4f1b715ed681fad6980f6ddf70",
-            "path": "shaderpacks/ComplementaryUnbound_r5.4한글.zip.txt"
           }
         }
       ]
