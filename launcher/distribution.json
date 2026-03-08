@@ -580,9 +580,9 @@
           "name": "keybindings.txt",
           "type": "File",
           "artifact": {
-            "size": 2074,
+            "size": 3408,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/config/defaultoptions/keybindings.txt",
-            "MD5": "fe34cf422df4718924c7443447ecfb6c",
+            "MD5": "47092f2f8a323b6757edd12afcac9cd9",
             "path": "config/defaultoptions/keybindings.txt"
           }
         },
@@ -793,6 +793,116 @@
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/config/RMFDonationConfig.yml",
             "MD5": "8f84d7e02302803d32fbf0c36cd17d35",
             "path": "config/RMFDonationConfig.yml"
+          }
+        },
+        {
+          "id": "Belly Lying.emotecraft",
+          "name": "Belly Lying.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 27778,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/emotes/Belly%20Lying.emotecraft",
+            "MD5": "1e2495249e0b634da8d048336d668374",
+            "path": "emotes/Belly Lying.emotecraft"
+          }
+        },
+        {
+          "id": "CaramellDansen.emotecraft",
+          "name": "CaramellDansen.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 59199,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/emotes/CaramellDansen.emotecraft",
+            "MD5": "328079633768a1bcfe1fe978222c8510",
+            "path": "emotes/CaramellDansen.emotecraft"
+          }
+        },
+        {
+          "id": "cool sit.emotecraft",
+          "name": "cool sit.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 32264,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/emotes/cool%20sit.emotecraft",
+            "MD5": "46af7bb4d92e037e3f7b031e1c731d9b",
+            "path": "emotes/cool sit.emotecraft"
+          }
+        },
+        {
+          "id": "Kneeling.emotecraft",
+          "name": "Kneeling.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 16524,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/emotes/Kneeling.emotecraft",
+            "MD5": "af65e0bbc39d3d3427e6273a7282e979",
+            "path": "emotes/Kneeling.emotecraft"
+          }
+        },
+        {
+          "id": "lying on side.emotecraft",
+          "name": "lying on side.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 37352,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/emotes/lying%20on%20side.emotecraft",
+            "MD5": "173a8feb401a8ea821ae12c2a9d90ae3",
+            "path": "emotes/lying on side.emotecraft"
+          }
+        },
+        {
+          "id": "naruto run.emotecraft",
+          "name": "naruto run.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 35210,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/emotes/naruto%20run.emotecraft",
+            "MD5": "e899d749c11559f23e0bf0b327c995ac",
+            "path": "emotes/naruto run.emotecraft"
+          }
+        },
+        {
+          "id": "Proxima Creature.emotecraft",
+          "name": "Proxima Creature.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 31553,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/emotes/Proxima%20Creature.emotecraft",
+            "MD5": "33aef13f25cb11f9d13fdf2e94a30ec2",
+            "path": "emotes/Proxima Creature.emotecraft"
+          }
+        },
+        {
+          "id": "Sobbing.emotecraft",
+          "name": "Sobbing.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 59495,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/emotes/Sobbing.emotecraft",
+            "MD5": "88545d5859016a269f57b317d13bca0c",
+            "path": "emotes/Sobbing.emotecraft"
+          }
+        },
+        {
+          "id": "Yamcha.emotecraft",
+          "name": "Yamcha.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 140500,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/emotes/Yamcha.emotecraft",
+            "MD5": "d183a5bef01c90db3a6362ac3d83ee8a",
+            "path": "emotes/Yamcha.emotecraft"
+          }
+        },
+        {
+          "id": "Мышка-сосиска.emotecraft",
+          "name": "Мышка-сосиска.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 44734,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/emotes/%D0%9C%D1%8B%D1%88%D0%BA%D0%B0-%D1%81%D0%BE%D1%81%D0%B8%D1%81%D0%BA%D0%B0.emotecraft",
+            "MD5": "49c1f284f01f86c4e0984d7a1d50a6e7",
+            "path": "emotes/Мышка-сосиска.emotecraft"
           }
         },
         {
