@@ -450,9 +450,9 @@
           "name": "RMF-Donation",
           "type": "FabricMod",
           "artifact": {
-            "size": 8546987,
+            "size": 8546999,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/RMF-Donation-1.4.1-fabric+mc1.21.4.jar",
-            "MD5": "f86f1652f54f60073c3d926819239671"
+            "MD5": "952f55c666806d3c9ff7a074cd76636a"
           }
         },
         {
