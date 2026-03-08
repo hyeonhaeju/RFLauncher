@@ -326,6 +326,16 @@
           }
         },
         {
+          "id": "journeymap:journeymap:1.21.4-6.0.0-beta.47@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3514383,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd"
+          }
+        },
+        {
           "id": "de.keksuccino:konkrete:1.9.9@jar",
           "name": "Konkrete",
           "type": "FabricMod",
@@ -440,9 +450,9 @@
           "name": "RMF-Donation",
           "type": "FabricMod",
           "artifact": {
-            "size": 8540169,
+            "size": 8546987,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/RMF-Donation-1.4.1-fabric+mc1.21.4.jar",
-            "MD5": "d83ed152e62070c53bc188a45305dd0f"
+            "MD5": "f86f1652f54f60073c3d926819239671"
           }
         },
         {
@@ -779,10 +789,65 @@
           "name": "RMFDonationConfig.yml",
           "type": "File",
           "artifact": {
-            "size": 209,
+            "size": 567,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/config/RMFDonationConfig.yml",
-            "MD5": "258ff10c41e33d0667fb5abf81a805b2",
+            "MD5": "8f84d7e02302803d32fbf0c36cd17d35",
             "path": "config/RMFDonationConfig.yml"
+          }
+        },
+        {
+          "id": "journeymap.core.config",
+          "name": "journeymap.core.config",
+          "type": "File",
+          "artifact": {
+            "size": 2693,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/journeymap/config/6.0/journeymap.core.config",
+            "MD5": "5b8f93d59b79353453eef9b136a83c48",
+            "path": "journeymap/config/6.0/journeymap.core.config"
+          }
+        },
+        {
+          "id": "journeymap.fullmap.config",
+          "name": "journeymap.fullmap.config",
+          "type": "File",
+          "artifact": {
+            "size": 1284,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/journeymap/config/6.0/journeymap.fullmap.config",
+            "MD5": "e44f40809fabab1650dfd7a23e647903",
+            "path": "journeymap/config/6.0/journeymap.fullmap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap.config",
+          "name": "journeymap.minimap.config",
+          "type": "File",
+          "artifact": {
+            "size": 2294,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
+            "MD5": "75902d8cfea9e0ff99f6f52ec96feeb4",
+            "path": "journeymap/config/6.0/journeymap.minimap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap2.config",
+          "name": "journeymap.minimap2.config",
+          "type": "File",
+          "artifact": {
+            "size": 2295,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/journeymap/config/6.0/journeymap.minimap2.config",
+            "MD5": "24d927ec34c6b5ba010e178b9cb13118",
+            "path": "journeymap/config/6.0/journeymap.minimap2.config"
+          }
+        },
+        {
+          "id": "journeymap.rendering.config",
+          "name": "journeymap.rendering.config",
+          "type": "File",
+          "artifact": {
+            "size": 671,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/journeymap/config/6.0/journeymap.rendering.config",
+            "MD5": "3c59e9461a03d6871f2c212926226c33",
+            "path": "journeymap/config/6.0/journeymap.rendering.config"
           }
         },
         {

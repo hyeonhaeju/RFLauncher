@@ -11,3 +11,14 @@ Server:
 SendEvent:
   donation: true
   chat: false
+
+#
+# 자동 연동 메시지 설정
+# {player} = 내 닉네임
+#
+Message:
+  linkingInProgress: "&e후원 연동중..."
+  linkSuccess: "&a연동 되었습니다 {player}님"
+  linkFailed: "&c자동 연동 실패, /치지직 로그인 해주세요"
+  f3Linked: "&b[RMF-API] &f후원연동 &a연결됨"
+  f3Unlinked: "&b[RMF-API] &f후원연동 &c연결안됨"
