@@ -331,8 +331,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3514383,
-            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/optionalon/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
             "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
