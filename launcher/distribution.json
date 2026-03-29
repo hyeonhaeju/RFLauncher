@@ -469,16 +469,6 @@
           }
         },
         {
-          "id": "ezzenix.smoothgui:smoothgui:0.1.1@jar",
-          "name": "SmoothGui",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 257740,
-            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/smoothgui-0.1.1.jar",
-            "MD5": "6b10b554deb2f467f23d718cb2f72456"
-          }
-        },
-        {
           "id": "generated.fabricmod:sodium-extra:0.6.1+mc1.21.4@jar",
           "name": "Sodium Extra",
           "type": "FabricMod",
@@ -546,16 +536,6 @@
             "size": 37851021,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/watermedia-2.1.23.jar",
             "MD5": "e9ca967ff77bf883202e0b44b8d79fa3"
-          }
-        },
-        {
-          "id": "dev.tr7zw:waveycapes:1.8.1@jar",
-          "name": "WaveyCapes",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1831451,
-            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/waveycapes-fabric-1.8.1-mc1.21.4.jar",
-            "MD5": "ed30c1fd0045f82a930125f774b24522"
           }
         },
         {
