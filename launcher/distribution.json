@@ -757,6 +757,17 @@
           }
         },
         {
+          "id": "brush-stroke.png",
+          "name": "brush-stroke.png",
+          "type": "File",
+          "artifact": {
+            "size": 1655569,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/files/config/HyperPlayer/hud/brush-stroke.png",
+            "MD5": "9f99cce6a326305d1aecb7eba8975a72",
+            "path": "config/HyperPlayer/hud/brush-stroke.png"
+          }
+        },
+        {
           "id": "Shalom_BGM.png",
           "name": "Shalom_BGM.png",
           "type": "File",
