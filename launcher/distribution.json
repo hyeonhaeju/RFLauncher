@@ -503,9 +503,9 @@
           "name": "SolLaCinema",
           "type": "FabricMod",
           "artifact": {
-            "size": 398939,
+            "size": 399345,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/RFLauncher/main/launcher/servers/RMFServer-1.21.4/fabricmods/required/SolLaCinema-1.0.0-client.jar",
-            "MD5": "0835e8b4908be3840a38077a685fc9da"
+            "MD5": "0308f9902aff690f8f8419dccb057c9f"
           }
         },
         {
